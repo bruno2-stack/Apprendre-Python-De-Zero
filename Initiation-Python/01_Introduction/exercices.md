@@ -39,3 +39,15 @@ presentation.py
 qui affiche :
 
 ```text
+---
+********************************
+       MA PRÉSENTATION
+********************************
+
+Nom : 
+Prénom :
+Ville : 
+Profession : 
+
+Bienvenue dans le monde de Python !
+```
