@@ -297,15 +297,4 @@ Dans ce chapitre, nous avons appris :
 
 ✓ Comment écrire des commentaires
 
----
-********************************
-       MA PRÉSENTATION
-********************************
 
-Nom : FAMBO
-Prénom : Bruno
-Ville : Natitingou, Bénin
-Profession : Enseignant de Mathématique et Informatique dans les collèges et Lycées du Bénin
-
-Bienvenue dans le monde de Python !
-```
